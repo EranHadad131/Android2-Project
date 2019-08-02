@@ -1,7 +1,5 @@
-# Android2-Project
-
-QuickFit (Android App)
-Features -
-#Firebase (Database, authentication, fire-chat)
-#Lottie JSON Animation
-#MVVM Design Pattern
+#Android2-Project  
+Features   
+Firebase (Database, authentication, fire-chat)  
+Lottie JSON Animation  
+MVVM Design Pattern
